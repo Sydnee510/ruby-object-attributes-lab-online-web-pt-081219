@@ -3,8 +3,8 @@ class Dog
   @name = name
   end
   def name
-   @name
-   end
+  @name
+  end
 end 
 fido = Dog.new("Fido")
 #fido.name = "Fido"

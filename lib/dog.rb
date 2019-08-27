@@ -6,6 +6,6 @@ class Dog
    @name
    end
 end 
-fido = Dog.new
+fido = Dog.new("Fido")
 #fido.name = "Fido"
 # puts fido.name
